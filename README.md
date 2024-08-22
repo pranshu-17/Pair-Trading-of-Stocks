@@ -3,6 +3,9 @@
 ## Overview
 
 This project implements a pair trading strategy for stocks using statistical techniques. Pair trading is a market-neutral trading strategy that involves matching a long position with a short position in two stocks with a high correlation. The goal is to profit from the relative movement of the stocks while minimizing market risk.
+ #### - *Acquired the knowledge of Pairs Trading Strategy theory, finance basics and some technical indicators*
+ #### - *Employed mean spread and moving averages for effective data analysis, extracting valuable insights and crucial trends*
+ #### - *Implemented the Distance and Co-integration approach for finding similar stocks and tested out the pairs trading strategy*
 
 ## Features
 
@@ -17,8 +20,6 @@ This project implements a pair trading strategy for stocks using statistical tec
 - Libraries: `numpy`, `pandas`, `matplotlib`, `scipy`, `statsmodels`, `yfinance` (or any other required libraries)
 
 
-#### - *Acquired the knowledge of Pairs Trading Strategy theory, finance basics and some technical indicators*
-#### - *Employed mean spread and moving averages for effective data analysis, extracting valuable insights and crucial trends*
-#### - *Implemented the Distance and Co-integration approach for finding similar stocks and tested out the pairs trading strategy*
+
 
 
