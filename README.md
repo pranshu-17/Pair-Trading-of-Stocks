@@ -17,7 +17,7 @@ This project implements a pair trading strategy for stocks using statistical tec
 - ## Requirements
 
 - Python 3.x
-- Libraries: `numpy`, `pandas`, `matplotlib`, `scipy`, `statsmodels`, `yfinance` (or any other required libraries)
+- Libraries: `numpy`, `pandas`, `matplotlib`, `scipy`, `statsmodels`, `yfinance` 
 
 
 
